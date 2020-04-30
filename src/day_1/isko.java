@@ -7,6 +7,6 @@ public class isko {
         System.out.println("wow");
         
         //I added this line from gitHub
-        //I will see this liine on Intellij
+        //I will see this line on Intellij
     }
 }
